@@ -3,7 +3,7 @@ Name:               Tommy Luu
 WSU ID:             P476T774
 Course:             CS 400
 Program Number:     3
-This is where my new code is
+
 */
 
 #include "stdafx.h"
