@@ -3,7 +3,7 @@ Name:               Tommy Luu
 WSU ID:             P476T774
 Course:             CS 400
 Program Number:     1
-
+This is the same change.
 */
 
 #include "stdafx.h"
